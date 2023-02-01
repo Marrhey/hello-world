@@ -1,2 +1,2 @@
 # marrhey
-my first commit
+my first readme
